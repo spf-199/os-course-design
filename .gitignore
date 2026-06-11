@@ -1,0 +1,13 @@
+oslab
+oslab.exe
+proc_client
+proc_client.exe
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+*.cmd
+.tmp_versions/
+tests/demo_output.txt
