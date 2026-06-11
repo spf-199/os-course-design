@@ -136,7 +136,7 @@ gcc -std=c11 -Wall -Wextra -Wpedantic -O2 -Iinclude -o oslab.exe src/main.c src/
 
 ## 代码 URL 填写说明
 
-课程要求报告必须包含代码 URL 和访问方式说明。为了避免伪造地址，本项目没有预填不存在的 GitHub 仓库。提交前请将本目录上传到 GitHub 或 Gitee，然后把真实仓库地址填入 `docs/202330551312_申佩凡_OS课程设计.docx` 的“代码 URL 与访问方式”一节，并重新导出 PDF。
+课程要求报告必须包含代码 URL 和访问方式说明。提交前将本目录上传到 GitHub 或 Gitee，然后把真实仓库地址填入 `docs/202330551312_申佩凡_OS课程设计.docx` 的“代码 URL 与访问方式”一节。
 
 示例上传命令：
 
@@ -145,6 +145,6 @@ git init
 git add .
 git commit -m "complete os course design"
 git branch -M main
-git remote add origin https://github.com/your-account/os-course-design.git
+git remote add origin https://github.com/spf-199/os-course-design.git
 git push -u origin main
 ```
